@@ -1,0 +1,14 @@
+.boxes{
+    border:  3px solid maroon;
+    border-radius: 12px;
+
+}
+
+#mainheading{
+    text-align: center;
+}
+
+.code{
+    font-size: 1.3em;
+    width: 90%;
+}
